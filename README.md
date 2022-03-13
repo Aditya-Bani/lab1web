@@ -3,9 +3,26 @@
 | NIM     | 312010134       |
 | Kelas   | TI.20.A1        |
 
-##Langkah-langkah praktikum
-Mmembuka text editor, disini saya menggunakan Atom
+## Langkah-langkah praktikum
+Membuka text editor, disini saya menggunakan Atom
 ![img01!](img/fotoatom.PNG)
+
+## 1. Membuat Paragraf
+![img02!](img/membuatparagraf.PNG)
+
+## 2. Menambahkan judul
+![img03!](img/tambahjudul.PNG)
+
+## 3. Memformat text
+![img04!](img/formattext.PNG)
+
+## 4. Menyisipkan gambar
+![img05!](img/menyisipkangambar.PNG)
+
+## 5. Menambahkan Hyperlink
+![img06!](img/menambahkanhyperlink.PNG)
+
+## 5. Menambahkan Hyperlink
 
 ## Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
@@ -24,24 +41,19 @@ Lalu ketika saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang aka
 Seperti gambar dibawah
 ![img2!](img/2.PNG)
 
-2. Tag `<p>` berfungsi untuk memberi perintah paragraf pada halaman html
+2. Tag `<br>` berfungsi untuk melompati satu line, cocok untuk memulai paragraf baru, sedangkan tag `<p>` seperti menekan tombol enter di software document editor
+![img3!](img/paragraf-br-p.PNG)
 
-	Tag `<br>` berfungsi untuk memberikan perintah breakline atau baris baru
-![img3!](img/3.PNG)
+3. Perbedaan atribut `title` dan `alt` yaitu pada gambar yang dihasilkan, ketika gambar berhasil ditampilkan maka akan terlihat sebuah title. Sedangkan jka gambar gagal ditampilkan maka akan menampilkan teks dalam atribut alt tersebut
+![img4!](img/alt-title.PNG)
 
-3. `title` berfungsi untuk memberikan judul pada gambar
+4. Menurut saya lebih baik satu atribut saja agar aspek ratio gambar asli terjaga. Kecuali pada kondisi tertentu (seperti gambar yang sudah memiliki ukuran yg pas/proporsional) cukup mengatur width nya saja
+![img5!](img/image-atribute.PNG)
 
-	`alt` berfungsi untuk menunjukkan sebuah alternate text (teks pengganti) yang akan muncul apabila gambar tidak dapat ditampilkan.
+5. `Nilai _blank` untuk membuka link di tab baru
 
-	gambar dibawah ini menunjukan perbedaan title dan alt
-![img4!](img/4.PNG)
+	`Nilai _self` untuk membuka link/halaman ditab saat ini
 
-4. Menurut saya
+	`Nilai _top` untuk membuka link/halaman dan membatalkan semua frame
 
-5. `_blank` untuk membuka link di tab baru
-
-	`_self` untuk membuka link di frame link itu berada
-
-	`_top` untuk membuka link di frame paling atas (paling luar).  contohnya jika di website(1) di dalamnya ada website(2) lalu di website(2) di dalamnya ada website (3) lalu di website (3) ini ada link dan kita klik, maka link akan terbuka di website(1)
-
-	`_parent` untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada. contohnya jika di website(1) di dalamnya ada website(2) lalu di website(2) ini ada link dan kita klik, maka link akan terbuka di website(1)
+	`_parent` untuk membuka link/halaman pada parent frame
