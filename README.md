@@ -22,8 +22,6 @@ Membuka text editor, disini saya menggunakan Atom
 ## 5. Menambahkan Hyperlink
 ![img06!](img/menambahkanhyperlink.PNG)
 
-## 5. Menambahkan Hyperlink
-
 ## Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
