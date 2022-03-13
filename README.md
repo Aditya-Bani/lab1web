@@ -1,3 +1,12 @@
+| Nama      | Aditya Bani Isro |
+| ----------- | ----------- |
+| NIM     | 312010134       |
+| Kelas   | TI.20.A1        |
+
+##Langkah-langkah praktikum
+Mmembuka text editor, disini saya menggunakan Atom
+![img01!](img/fotoatom.PNG)
+
 ## Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
