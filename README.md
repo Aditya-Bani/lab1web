@@ -54,4 +54,4 @@ Seperti gambar dibawah
 
 	`Nilai _top` untuk membuka link/halaman dan membatalkan semua frame
 
-	`_parent` untuk membuka link/halaman pada parent frame
+	`Nilai _parent` untuk membuka link/halaman pada parent frame
