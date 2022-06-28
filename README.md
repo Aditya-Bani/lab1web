@@ -62,19 +62,19 @@
     <td><a href="https://github.com/Aditya-Bani/lab11web">Klik disini</td>
   </tr>
 <tr>
-    <td></td>
+    <td><b>Praktikum 12</b></td>
     <td>Framework Lanjutan (CRUD)</td>
-    <td><a href="https://github.com/Aditya-Bani/lab12web">Klik disini</td>
+    <td><a href="https://github.com/Aditya-Bani/lab11web">Klik disini</td>
   </tr>
 <tr>
-    <td></td>
+    <td><b>Praktikum 13</b></td>
     <td>Framework Lanjutan (Modul Login)</td>
-    <td><a href="https://github.com/Aditya-Bani/lab13web">Klik disini</td>
+    <td><a href="https://github.com/Aditya-Bani/lab11web">Klik disini</td>
   </tr>
   <tr>
-    <td></td>
+    <td><b>Praktikum 14</b></td>
     <td>Pagination dan Pencarian</td>
-    <td><a href="https://github.com/Aditya-Bani/lab14web">Klik disini</td>
+    <td><a href="https://github.com/Aditya-Bani/lab11web">Klik disini</td>
   </tr>
   <tr>
 </table>_________________________________________________________________________________
