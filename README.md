@@ -3,6 +3,8 @@
 | NIM     | 312010134       |
 | Kelas   | TI.20.A1        |
 
+# Praktikum 1 | HTML Dasar
+
 ## Langkah-langkah praktikum
 Membuka text editor, disini saya menggunakan Atom
 ![img01!](img/fotoatom.PNG)
